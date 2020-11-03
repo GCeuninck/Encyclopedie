@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1542212727 source:p:\bureau\b46_projet_doc\b46_projet_listes\main.c
+	"header.h"
+
+1542212518 p:\bureau\b46_projet_doc\b46_projet_listes\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1542213800 source:p:\bureau\b46_projet_doc\b46_projet_listes\functions.c
+	"header.h"
+
+1542287104 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46_projet_doc\b46_projet_listes\main.c
+	"header.h"
+
+1542288122 \\aviso-l-fs-e\students$\gceuninck\bureau\b46_projet_doc\b46_projet_listes\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542355932 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46_projet_doc\b46_projet_listes\functions.c
+	"header.h"
+
+1542196987 \\aviso-l-fs-e\students$\gceuninck\bureau\b46_projet_doc\b46_projet_listes\b46_wikipedia_test.dat
+

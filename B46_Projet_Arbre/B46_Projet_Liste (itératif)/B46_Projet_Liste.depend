@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1542664967 source:d:\documents\imt lille\b46 - projet\b46_projet_liste\functions.c
+	"header.h"
+
+1542637842 d:\documents\imt lille\b46 - projet\b46_projet_liste\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542665040 source:d:\documents\imt lille\b46 - projet\b46_projet_liste\main.c
+	"header.h"
+
+1542639390 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_liste\main.c
+	"header.h"
+
+1542637840 \\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_liste\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542639409 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_liste\functions.c
+	"header.h"
+
+1542706638 source:d:\documents\imt lille\b46 - projet\b46_projet_liste (itératif)\main.c
+	"header.h"
+
+1542706638 d:\documents\imt lille\b46 - projet\b46_projet_liste (itératif)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542707891 source:d:\documents\imt lille\b46 - projet\b46_projet_liste (itératif)\functions.c
+	"header.h"
+
+1542716402 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_liste (itératif)\functions.c
+	"header.h"
+
+1542708022 \\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_liste (itératif)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542714553 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_liste (itératif)\main.c
+	"header.h"
+
+1543078602 source:c:\users\guillaume\desktop\projet_b46\b46_projet_liste (itératif)\main.c
+	"Liste.h"
+
+1543080019 c:\users\guillaume\desktop\projet_b46\b46_projet_liste (itératif)\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1543078668 source:c:\users\guillaume\desktop\projet_b46\b46_projet_liste (itératif)\liste.c
+	"Liste.h"
+

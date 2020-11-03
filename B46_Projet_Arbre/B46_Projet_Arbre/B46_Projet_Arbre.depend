@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1542707785 source:d:\documents\imt lille\b46 - projet\b46_projet_arbre\main.c
+	"header.h"
+
+1542642414 d:\documents\imt lille\b46 - projet\b46_projet_arbre\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542707785 source:d:\documents\imt lille\b46 - projet\b46_projet_arbre\functions.c
+	"header.h"
+
+1542378774 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46_projet_arbre\main.c
+	"header.h"
+
+1542378706 \\aviso-l-fs-e\students$\gceuninck\bureau\b46_projet_arbre\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542379588 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46_projet_arbre\functions.c
+	"header.h"
+
+1542379836 source:d:\documents\imt lille\b46_projet_arbre\functions.c
+	"header.h"
+
+1542378706 d:\documents\imt lille\b46_projet_arbre\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542378774 source:d:\documents\imt lille\b46_projet_arbre\main.c
+	"header.h"
+
+1542707786 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_arbre\functions.c
+	"header.h"
+
+1542642416 \\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_arbre\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542715676 source:\\aviso-l-fs-e\students$\gceuninck\bureau\b46 - projet\b46_projet_arbre\main.c
+	"header.h"
+
+1543078333 source:c:\users\guillaume\desktop\projet_b46\b46_projet_arbre\functions.c
+	"header.h"
+
+1543078060 c:\users\guillaume\desktop\projet_b46\b46_projet_arbre\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1543078778 source:c:\users\guillaume\desktop\projet_b46\b46_projet_arbre\main.c
+	"Arbre.h"
+
+1543078749 source:c:\users\guillaume\desktop\projet_b46\b46_projet_arbre\arbre.c
+	"Arbre.h"
+
+1543080024 c:\users\guillaume\desktop\projet_b46\b46_projet_arbre\arbre.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
